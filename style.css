@@ -173,12 +173,6 @@ body {
     right: 20px;
 }
 
-
-.card:focus-within {
-    outline: 3px solid rgba(255, 255, 255, 0.3);
-    outline-offset: 5px;
-}
-
 .card:focus {
     outline: none;
 }
